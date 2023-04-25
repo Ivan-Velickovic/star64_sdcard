@@ -1,0 +1,11 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/Fishwaldo/u-boot.git
+    branch = Star64
+
+[submodule "opensbi"]
+	path = opensbi
+	url = https://github.com/riscv/opensbi.git
+[submodule "soft_3rdpart"]
+	path = soft_3rdpart
+	url = https://github.com/starfive-tech/soft_3rdpart.git
